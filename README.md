@@ -30,10 +30,8 @@
 - [ ] State
 - [ ] Template Method
 
-## Contribution
 ## 👬 Contribution
 
-- Report issues
-- Open pull request with improvements
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/samsonmolou.svg?style=social&label=Follow%20%40samsonmolou)](https://twitter.com/samson_molou)
+- Signaler les issues
+- Pull request pour les améliorations
+- Pour les feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/samsonmolou.svg?style=social&label=Follow%20%40samsonmolou)](https://twitter.com/samson_molou)
