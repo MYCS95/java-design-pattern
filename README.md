@@ -7,11 +7,11 @@
 - [x] factory-method
 - [x] prototype
 - [x] simple-factory
-- [ ] singleton 
+- [x] singleton 
 
 ## Structural Design Patterns
-- [ ] Adapter
-- [ ] Bridge
+- [x] Adapter
+- [x] Bridge
 - [ ] Composite
 - [ ] Decorator
 - [ ] Facade
