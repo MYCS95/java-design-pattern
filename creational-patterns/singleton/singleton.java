@@ -1,16 +1,17 @@
 /**
- * Implémentation du design pattern singleton, avec le lazy loading
+ * Implémentation du design pattern singleton
+ * Implémentation avec l'approche du lazy initialization
  */
 final class President {
-    private static President instance;
+    private static President president;
 
     private President() {
         // Cacher le constructeur
     }
 
-    public static President getInstance() {
-        if(!this.instance) {
-            this.instance = instance;
-        }
+    public static President getPresident() {
+        if(president == null)
+            president = new President();
+        return president;
     }
 }
