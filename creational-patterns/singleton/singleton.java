@@ -15,3 +15,12 @@ final class President {
         return president;
     }
 }
+
+class Test {
+    public static void main(String[] args) {
+        President president1 = President.getPresident();
+        President president2 = President.getPresident();
+        System.out.println(president1.hashCode());
+        System.out.println(president2.hashCode());
+    }
+}
